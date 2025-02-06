@@ -8,7 +8,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
   const handleNavLinkClick = () => {
     setIsOpen(false);
-    navigate("/trail");
+    
   };
 
   useEffect(() => {
