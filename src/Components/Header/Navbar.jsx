@@ -121,22 +121,22 @@ const Navbar = () => {
         </button>
         <ul className="nav flex-column mt-5">
           <li className="nav-item">
-            <a className="nav-link" href="#hexnode" onClick={handleNavLinkClick}>
+            <a className="nav-link" href="#hexnode">
               Why Hexnode
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#features" onClick={handleNavLinkClick}>
+            <a className="nav-link" href="#features">
               Features
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#platform" onClick={handleNavLinkClick}>
+            <a className="nav-link" href="#platform">
               Platforms
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#customers" onClick={handleNavLinkClick}>
+            <a className="nav-link" href="#customers">
               Customers
             </a>
           </li>
