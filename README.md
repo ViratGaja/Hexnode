@@ -4,7 +4,7 @@
 A clone of Hexnode UEM Solution webpage built using React.js, Vite, and Bootstrap.
 
 ## Live Demo
-[https://rainbow-meerkat-787d50.netlify.app/]
+[https://earnest-mochi-e91812.netlify.app/]
 
 ## Technologies Used
 - React.js
