@@ -1,0 +1,24 @@
+.footer{
+    background-color: rgb(2 10 25);
+}
+.custom_style{
+    padding: 60px 0;
+}
+.bottom_footer{
+    padding: 30px 0;
+}
+.footer_content{
+    color: rgb(85 101 117 );
+    font-size: 12px;
+}
+
+@media(max-width:776px){
+    .custom_style{
+        padding: 60px 0;
+    }   
+}
+@media(min-width:1200px){
+    .custom_button{
+        width: 30%;
+    }
+}

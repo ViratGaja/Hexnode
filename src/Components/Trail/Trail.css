@@ -1,0 +1,85 @@
+    .landing-container {
+        display: flex;
+        height: 100vh;
+    }
+
+    .left-section {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 50px;
+    }
+
+    .left-section h1 {
+        font-size: 2rem;
+        margin-bottom: 20px;
+    }
+
+    .left-section input {
+        padding: 10px;
+        margin-bottom: 15px;
+        border: 1px solid #ccc;
+    }
+
+    .left-section button {
+        background-color: #dc3545;
+        color: white;
+        border: none;
+        padding: 10px;
+        cursor: pointer;
+    }
+
+    .contact-info {
+        margin-top: 15px;
+    }
+
+    .right-section {
+        width: 50%;
+        background-color: #f8f9fa;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 50px;
+    }
+
+    .right-section img {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        object-fit: cover;
+        margin-bottom: 15px;
+    }
+
+    .right-section .quote {
+        font-style: italic;
+        margin: 15px 0;
+        max-width: 300px;
+    }
+
+    .message-count {
+        margin-top: 10px;
+    }
+
+    .hexnode-logo {
+        font-size: 30px;
+        font-weight: 700;
+        text-decoration: none;
+        letter-spacing: -0.5px;
+    }
+
+    .custom_trail {
+        padding: 100px 0;
+    }
+
+    .form-control:focus {
+        box-shadow: none;
+    }
+
+    @media(max-width:776px) {
+        .custom_trail {
+            padding: 40px 0;
+        }
+    }
