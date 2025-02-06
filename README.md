@@ -19,7 +19,7 @@ A clone of Hexnode UEM Solution webpage built using React.js, Vite, and Bootstra
 ## Installation and Setup
 1. Clone the repository
 ```bash
-git clone [https://github.com/ViratGaja/Hexnode.git]
+git clone []
 ```
 
 2. Navigate to project directory
